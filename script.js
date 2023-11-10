@@ -1,8 +1,8 @@
 function mudarTexto() {
     document.getElementById("demo").innerHTML = "A Seleção!";
 }
-function exibirAlerta() {`
+function exibirAlerta() {
 
-`alert("Olá! Isso é um alerta em JavaScript.");`
-
-`}`
+    alert("Olá! Isso é um alerta em JavaScript.");
+    
+    }
