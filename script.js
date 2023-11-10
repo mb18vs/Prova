@@ -5,4 +5,4 @@ function exibirAlerta() {
 
     alert("Olá! Isso é um alerta em JavaScript.");
     
-    }
+}
