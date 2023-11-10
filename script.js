@@ -1,7 +1,8 @@
 function mudarTexto() {
     document.getElementById("demo").innerHTML = "A Seleção!";
 }
-let nome = "João";
-  let idade = 25;
+function exibirAlerta() {`
 
-  alert("Olá, " + nome + "! Você tem " + idade + " anos.");
+`alert("Olá! Isso é um alerta em JavaScript.");`
+
+`}`
