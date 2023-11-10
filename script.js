@@ -1,3 +1,3 @@
 function mudarTexto() {
-    document.getElementById("demo").innerHTML = "Texto alterado!";
+    document.getElementById("demo").innerHTML = "A Seleção!";
 }
